@@ -1,5 +1,5 @@
 import React from "react";
-import {Aux} from "../../../higherOrderComponent/Auxillary";
+import {Aux} from "../../../higherOrderComponent/Auxillary/Auxillary";
 
 import Logo from "../../Logo/Logo";
 import Backdrop from "../../UI/Backdrop/Backdrop";
